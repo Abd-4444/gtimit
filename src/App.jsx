@@ -17,10 +17,12 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
+      <h1> i am writing thiss coment for differentiatoin</h1>
       <h1> i just created new branch</h1>
       <h2>this  is code of a main branch </h2>
-      <h4>checking how to merge</h4>
-      <h3></h3>
+      <h3> going to  checking the merge differene</h3>
+      <h4> this isa coment to check new branch</h4>
+      
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
