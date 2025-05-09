@@ -17,13 +17,10 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-<<<<<<< HEAD
       <h1> i am writing thiss coment for differentiatoin</h1>
-=======
       <h1> i just created new branch</h1>
       <h2>this  is code of a main branch </h2>
-      <h3></h3>
->>>>>>> new
+      
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
